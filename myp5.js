@@ -29,7 +29,7 @@ function preload() {
 
 }
 function setup(){
-canvas = createCanvas(displayWidth,850);
+canvas = createCanvas(displayWidth,displayHeight);
 canvas.position(0,0);
 background(bg);
 canvas.mousePressed(stopAni);
