@@ -21,7 +21,7 @@ function lionfloat(){
 }
 
 function preload() {
-   bg = loadImage('img/p5/interractivebg.png');
+   bg = loadImage('img/p5/interractivebg2.png');
    lioncha = loadImage('img/p5/lion1.png');
    lioncha2 = loadImage('img/p5/lion2.png');
    mousecha = loadImage('img/p5/mouse.png');
