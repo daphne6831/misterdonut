@@ -40,7 +40,7 @@ canvas.mousePressed(stopAni);
 function draw(){
  
 // image(mousecha, mouseX ,mouseY,100,100);    
-frameRate(25);
+frameRate(30);
 imageMode(CENTER);
 // rotate(angle);
 lionfloat();
